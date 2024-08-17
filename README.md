@@ -1,2 +1,2 @@
-# html-css-projects
+# html-css-javascript projects
 by freeCodeCamp lessons
